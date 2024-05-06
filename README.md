@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-* 🌍  I'm based in Pune
+* 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [shrikantdhengle7@gmail.com](mailto:shrikantdhengle7@gmail.com)
 * 🚀  I'm currently working on [SprintHub](http://https://github.com/FlashShri/backend-sprinthub)
 * 🧠  I'm learning Spring Boot , ASP.NET , React JS
